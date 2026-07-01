@@ -155,3 +155,9 @@ AI-Based-Smart-Waste-Segregation/
 📜 License
 
 This project is developed for academic and research purposes. Feel free to use it for learning and educational projects.
+
+<img width="800" height="1037" alt="image 3" src="https://github.com/user-attachments/assets/89d30ee5-5d82-4f6f-86ca-02ba23105fc1" />
+<img width="800" height="1200" alt="imag 1" src="https://github.com/user-attachments/assets/cc786552-d334-4fd8-a1f5-57e58f3a0e97" />
+<img width="1280" height="575" alt="image 4" src="https://github.com/user-attachments/assets/9ff9d639-751c-4426-b0c7-4624b925d259" />
+<img width="1280" height="575" alt="image 2" src="https://github.com/user-attachments/assets/adbf99de-a18c-4316-955c-7e6f5b4599d5" />
+
